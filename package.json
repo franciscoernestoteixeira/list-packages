@@ -1,0 +1,28 @@
+{
+  "name": "list-packages",
+  "version": "1.0.0",
+  "description": "CLI to list installed dependencies and devDependencies with their actual installed versions",
+  "bin": {
+    "list-packages": "./bin/list-packages.js"
+  },
+  "keywords": [
+    "cli",
+    "npm",
+    "dependencies",
+    "devDependencies",
+    "list",
+    "versions",
+    "package.json",
+    "node-modules"
+  ],
+  "author": "Francisco Ernesto Teixeira <https://github.com/franciscoernestoteixeira>",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/franciscoernestoteixeira/list-packages.git"
+  },
+  "bugs": {
+    "url": "https://github.com/franciscoernestoteixeira/list-packages/issues"
+  },
+  "homepage": "https://github.com/franciscoernestoteixeira/list-packages#readme"
+}
