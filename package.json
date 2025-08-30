@@ -1,16 +1,16 @@
 {
-  "name": "list-packages",
+  "name": "show-packages",
   "version": "1.0.0",
   "description": "CLI to list installed dependencies and devDependencies with their actual installed versions",
   "bin": {
-    "list-packages": "./bin/list-packages.js"
+    "show-packages": "./bin/show-packages.js"
   },
   "keywords": [
     "cli",
     "npm",
     "dependencies",
     "devDependencies",
-    "list",
+    "show",
     "versions",
     "package.json",
     "node-modules"
@@ -19,10 +19,10 @@
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/franciscoernestoteixeira/list-packages.git"
+    "url": "git+https://github.com/franciscoernestoteixeira/show-packages.git"
   },
   "bugs": {
-    "url": "https://github.com/franciscoernestoteixeira/list-packages/issues"
+    "url": "https://github.com/franciscoernestoteixeira/show-packages/issues"
   },
-  "homepage": "https://github.com/franciscoernestoteixeira/list-packages#readme"
+  "homepage": "https://github.com/franciscoernestoteixeira/show-packages#readme"
 }

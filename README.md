@@ -1,4 +1,4 @@
-# list-packages
+# show-packages
 
 A simple CLI tool to list the **installed dependencies** and **devDependencies** of a Node.js project with their **actual installed versions** (from `node_modules`).  
 
@@ -11,7 +11,7 @@ It outputs:
 ## Installation
 
 ```bash
-npm install -g list-packages
+npm install -g show-packages
 ```
 
 ---
@@ -21,7 +21,7 @@ npm install -g list-packages
 From the root of any Node.js project that has a `package.json` and a `node_modules` folder:
 
 ```bash
-list-packages
+show-packages
 ```
 
 ---
@@ -51,7 +51,7 @@ and your `node_modules` actually contains:
 Running:
 
 ```bash
-list-packages
+show-packages
 ```
 
 ### Output
